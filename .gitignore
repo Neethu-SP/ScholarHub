@@ -1,0 +1,8 @@
+target/
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+src/main/java/com/scholarhub/DatabaseConnection.java
